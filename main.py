@@ -49,7 +49,7 @@ def job_wrapper():
 
 
 # Her 5 saniyede bir mesaj paylaşımı için:
-schedule.every(3).hours.do(job_wrapper)
+schedule.every(1).hours.do(job_wrapper)
 
 
 # Asenkron döngüyü sürekli çalıştır
