@@ -29,7 +29,7 @@ async def send_message_with_image():
                 [telegram.InlineKeyboardButton(text="👑Slottica 200% Deposit Bonus",
                                                url="https://gopartner.link/?a=205678&c=184089&s1=6028")],
                 [telegram.InlineKeyboardButton(text="👑Betsio  5000 USDT BONUS", url="https://t.ly/9-D_G")],
-                [telegram.InlineKeyboardButton(text="👑Rolette Academy CANADA", url="https://t.me/rouletteacademycanada")],
+                [telegram.InlineKeyboardButton(text="👑Rolette Academy CANADA", url="https://canadachatsite3.vercel.app/")],
                 
             ]
 
